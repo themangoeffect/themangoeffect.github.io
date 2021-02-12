@@ -22,3 +22,6 @@ p{
   bottom: 0; left: 0;
   margin: auto;
 }
+img {
+  text-align: center;
+}
