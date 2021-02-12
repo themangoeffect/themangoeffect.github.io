@@ -1,7 +1,22 @@
-p {
+h1 {
   text-align: center;
-  text-shadow: 0px 0px 10px black;
+  text-shadow: 0px 0px 7px black;
+}
+.videotitle {
+  text-align: center;
+  text-decoration-style: solid;
+  text-shadow: 0px 0px 5px black;
 }
 iframe {
   text-align: center;
+}
+
+p{
+  text-align: center;
+}
+.title{
+  background-image: url("themangoeffectbanner.png");
+}
+body {
+  background-color: #00ff80;
 }
