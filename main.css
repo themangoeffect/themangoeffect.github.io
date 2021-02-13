@@ -7,20 +7,22 @@ html{
   background-color: teal;
   padding: 10px 16px;
   overflow:auto;
+  border-radius: 10px;
 }
 .nav a {
   float: left;
   padding: 5px 15px;
-  background-color: #22cccc;
+  background-color: #55550505;
+  color: #fff;
 }
 .nav a:hover {
-  background-color: #eaeaea;
+  background-color: #55a0a0;
 }
 .nav .active {
-  background-color: #5aee5a;
+  background-color: #50bb50;
 }
 body {
-  background-color: #eeeeee;
+  background-color: #eeee;
 }
 .centered{
   text-align: center;
@@ -32,12 +34,36 @@ body {
 }
 .aligncenter {
   text-align: center;
-  display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+}
+.blogpost{
+  background-color: #cccc;
+  padding: 5px;
+  border-radius: 25px;
+  width: 70%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 25px;
+}
+.blogposttitle{
+  float:left;
+  padding: 25px;
+  padding-top: 0px;
+}
+.blogpostdate{
+  float:right;
+  padding: 25px;
+  padding-top: 0px;
+}
+.blogpostpost{
+  float:none;
+  text-align: left;
+  padding-top:50px;
 }
 footer{
   padding: 1px 25px;
-  background-color: #dddddd;
+  background-color: #dddd;
+  border-radius: 5px;
 }
