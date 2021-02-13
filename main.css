@@ -10,17 +10,8 @@ body {
   text-decoration-style: solid;
   text-shadow: 0px 0px 2px black;
 }
-iframe {
-  text-align: center;
-}
 p{
   text-align: center;
-}
-.videothumbnail{
-  position: absolute;
-  top: 0; right: 0;
-  bottom: 0; left: 0;
-  margin: auto;
 }
 .aligncenter {
   display: block;
@@ -30,4 +21,7 @@ p{
 }
 .nav{
   background-color: teal;
+}
+.centered{
+  text-align: center;
 }
