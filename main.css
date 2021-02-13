@@ -3,7 +3,9 @@ html{
   font-weight: 400;
 }
 .dameron{
-  font-family: "dameron";
+  @font-face: "dameron";
+  url(./dameron.tff)
+  format('truetype');
 }
 .nav{
   text-decoration-style: solid;
