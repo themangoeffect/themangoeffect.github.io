@@ -45,28 +45,6 @@ body {
   margin-right: auto;
   width: 50%;
 }
-form{
-  text-align: center;
-  margin: 15px;
-}
-input[type=text], textarea{
-  width: 50%;
-  padding: 10px;
-  resize: vertical;
-  margin-top: 6px;
-  margin-bottom: 5px;
-  border: 1px solid #000;
-}
-input[type=submit]{
-  background-color: #50cc50;
-  color: white;
-  padding: 10px 20px;
-  cursor: pointer;
-}
-input[type=submit]:hover{
-  background-color: #50bb50;
-}
-
 footer{
   padding: 1px 25px;
   background-color: #dddddd;
