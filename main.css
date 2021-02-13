@@ -5,9 +5,9 @@ html{
 .dameron{
   background-color: inherit;
   color: white;
+  text-shadow: 0px 0px 5px black;
   font-family: "dameron";
   src: url("./dameron.tff");
-  text-shadow: 0px 0px 5px black;
 }
 .nav{
   text-decoration-style: solid;
@@ -21,6 +21,7 @@ body {
 }
 .videotitle {
   text-decoration-style: solid;
+  text-shadow: 0px 0px 2px black;
 }
 .aligncenter {
   text-align: center;
