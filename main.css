@@ -2,6 +2,9 @@ html{
   font-family: "Roboto";
   font-weight: 400;
 }
+.dameron{
+  font-family: "dameron";
+}
 .nav{
   text-decoration-style: solid;
   background-color: teal;
