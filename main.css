@@ -5,6 +5,7 @@ html{
 .dameron{
   font-family: "dameron";
   src: url("./dameron.tff");
+  color: #ffffff;
 }
 .nav{
   text-decoration-style: solid;
