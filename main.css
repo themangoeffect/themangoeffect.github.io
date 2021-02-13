@@ -2,14 +2,6 @@ html{
   font-family: "Roboto";
   font-weight: 400;
 }
-.dameron{
-  background-color: inherit;
-  color: white;
-  text-shadow: 0px 0px 5px black;
-  font-family: "dameron";
-  src: url("./dameron.tff");
-  font-size: 25px
-}
 .nav {
   text-decoration-style: solid;
   background-color: teal;
