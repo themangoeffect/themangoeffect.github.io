@@ -3,9 +3,10 @@ html{
   font-weight: 400;
 }
 .dameron{
+  background-color: inherit;
+  color: white;
   font-family: "dameron";
   src: url("./dameron.tff");
-  color: #ffffff;
 }
 .nav{
   text-decoration-style: solid;
