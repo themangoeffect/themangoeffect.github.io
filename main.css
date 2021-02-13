@@ -1,5 +1,6 @@
 .nav{
   background-color: teal;
+  text-decoration-style: solid;
 }
 body {
   background-color: #eeeeee;
@@ -9,6 +10,7 @@ body {
 }
 .videotitle {
   text-decoration-style: solid;
+  text-align: center;
 }
 .aligncenter {
   text-align: center;
