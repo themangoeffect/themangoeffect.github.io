@@ -9,9 +9,22 @@ html{
   font-family: "dameron";
   src: url("./dameron.tff");
 }
-.nav{
+.nav {
   text-decoration-style: solid;
   background-color: teal;
+  padding: 10px 16px;
+  overflow:auto;
+}
+.nav a {
+  float: left;
+  padding: 5px 15px;
+  background-color: #22cccc;
+}
+.nav a:hover {
+  background-color: #eaeaea;
+}
+.active {
+  background-color: #0000ee;
 }
 body {
   background-color: #eeeeee;
@@ -20,8 +33,9 @@ body {
   text-align: center;
 }
 .videotitle {
-  text-shadow: 0px 0px 2px black;
   text-decoration-style: solid;
+  text-shadow: 0px 1px 1px black;
+  text-align: center;
 }
 .aligncenter {
   text-align: center;
@@ -29,4 +43,8 @@ body {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+}
+footer{
+  padding: 1px 25px;
+  background-color: #dddddd;
 }
