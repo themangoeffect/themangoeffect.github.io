@@ -13,11 +13,11 @@ html{
 .nav a {
   float: left;
   padding: 5px 15px;
-  background-color: #55550505;
+  background-color: #55550555;
   color: #fff;
 }
 .nav a:hover {
-  background-color: #55a0a0;
+  background-color: #55a055;
 }
 .nav .active {
   background-color: #50bb50;
@@ -41,6 +41,7 @@ body {
 .blogpost{
   background-color: #bbbb;
   padding: 5px;
+  padding-bottom: 10px;
   border-radius: 25px;
   width: 70%;
   text-align: center;
