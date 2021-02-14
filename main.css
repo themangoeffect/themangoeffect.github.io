@@ -15,6 +15,7 @@ html{
   padding: 5px 15px;
   background-color: #55550530;
   color: #fff;
+  border-radius: 7px;
 }
 .nav a:hover {
   background-color: #55a055aa;
