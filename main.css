@@ -13,11 +13,11 @@ html{
 .nav a {
   float: left;
   padding: 5px 15px;
-  background-color: #55550555;
+  background-color: #55550530;
   color: #fff;
 }
 .nav a:hover {
-  background-color: #55a055;
+  background-color: #55a055aa;
 }
 .nav .active {
   background-color: #50bb50;
